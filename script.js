@@ -1,4 +1,4 @@
-document.write("hello buddy i m still learning get lost");
+document.write("hello sir i m still learning");
 
 function showdate(){
 document.getElementById('datep').innerHTML = Date();
